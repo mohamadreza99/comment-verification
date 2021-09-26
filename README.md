@@ -13,7 +13,7 @@ the dataset has 160000 entry in train datas which each of them is a seperate com
 the test datas consist of 20000 comments.
 
 ### visualization by generating a world cloud
-for a better understanding of data and do some exploratory data analysis to a an idea of distribution of the words, I generate word cloud for this dataset.
+for a better understanding of data and do some exploratory data analysis to have an idea of the distribution of words, I generate word cloud for this dataset.
 
 ![wordcloud](https://github.com/mohamadreza99/comment-verification/blob/main/wordcloud.png)
 
